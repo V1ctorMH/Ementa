@@ -1,0 +1,23 @@
+table, th, td {
+    background-color: rgb(49, 149, 236);
+    border: 1px solid white;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: left;
+    margin: 0 auto;
+    }
+.Princ{
+    background-color: rgba(92, 91, 91, 0.404);
+}
+body{
+    background-color: black;
+}
+*{
+    color: aquamarine;
+}
+#Mar{
+    margin-left: 30px;
+}
+#Conter{
+    margin-top: 100px;
+}
